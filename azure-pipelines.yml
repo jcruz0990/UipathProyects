@@ -23,5 +23,5 @@ steps:
     processName: 'Trigger_Test'
     folderName: 'Fabrica'
     jobType: 'TestAutomation'
-    user: 'Julio Cesar'
+    user: 'sophos\julio.contreras'
     machine: 'WorkStation'
