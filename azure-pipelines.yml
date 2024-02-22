@@ -22,4 +22,6 @@ steps:
     orchestratorConnection: 'Uipath_Devops-Integration'
     processName: 'Trigger_Test'
     folderName: 'Fabrica'
-    user: 'sophos\julio.contreras'
+    jobType: 'TestAutomation'
+    user: 'Julio Cesar'
+    machine: 'WorkStation'
