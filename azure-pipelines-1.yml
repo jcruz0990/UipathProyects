@@ -19,7 +19,7 @@ steps:
 - task: UiPathPack@4
   inputs:
     versionType: 'AutoVersion'
-    projectJsonPath: 'project.json'
+    projectJsonPath: 'UiPath\PruebaHub\project.json'
     outputType: 'Process'
     orchestratorConnection: 'Uipath_Devops-Integration'
     outputPath: '$(Build.ArtifactStagingDirectory)\Output'
