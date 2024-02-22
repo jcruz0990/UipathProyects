@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: windows-latest
+  Uipath_DevOps
 
 steps:
 - script: echo Hello, world!
