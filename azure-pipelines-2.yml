@@ -20,5 +20,5 @@ steps:
 - task: UiPathRunJob@4
   inputs:
     orchestratorConnection: 'Uipath_Devops-Integration'
-    processName: 'PruebaHub'
+    processName: 'Trigger_Test'
     folderName: 'Fabrica'
